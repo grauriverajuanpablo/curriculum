@@ -1,0 +1,20 @@
+
+<img src="C:\Users\Lenovo\Pictures\foto_jpg.jpg" alt="5">
+
+
+<h1>hola! soy Juan Pablo Grau</h1>
+<h2>estoy escribiendo mi Curriculum vitae</h2>
+<h3>Habilidades</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Python</li>
+</ul>
+
+<h3>Educación:</h3>
+
+
+<p>Bootcamp front-end</p>
+
+<a href="https://www.linkedin.com/in/juanpablograurivera/">Linkedyn</a>
